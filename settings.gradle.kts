@@ -1,2 +1,2 @@
-rootProject.name = "azubi-project"
+rootProject.name = "sample-learning-project"
 
