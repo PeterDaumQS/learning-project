@@ -1,4 +1,4 @@
-package de.qs.azubi.simpledicegame;
+package de.qs.learningproject.simpledicegame;
 
 /**
  * Represents a simple dice interface to roll a dice.

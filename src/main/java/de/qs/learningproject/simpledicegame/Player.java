@@ -1,4 +1,4 @@
-package de.qs.azubi.simpledicegame;
+package de.qs.learningproject.simpledicegame;
 
 /**
  * A simpler player representation.

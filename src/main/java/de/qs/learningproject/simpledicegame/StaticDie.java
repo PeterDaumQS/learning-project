@@ -1,4 +1,4 @@
-package de.qs.azubi.simpledicegame;
+package de.qs.learningproject.simpledicegame;
 
 /**
  * A die that always returns the same result
