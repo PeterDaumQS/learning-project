@@ -9,8 +9,7 @@ public interface Die {
 
     /**
      * Rolls the dice and returns the result.
-     * TODO: find a better name
-     * TODO : fix typo
+     * TODO: refactor the name
      *
      * @return the dice roll result.
      */
